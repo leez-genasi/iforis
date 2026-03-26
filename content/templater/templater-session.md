@@ -2,13 +2,13 @@
 tags:
   - session
 chapter: 2
-location: 
+location:
 players: Arkansas, Avery, Shade, Smith, Twig, Variel
 date: <% tp.date.now("DDMMYYYY") %>
-session no.: <% tp.user.getSessionNumber(tp) %>
+session no.: <% tp.user.getSessionNum(tp) %>
 ---
 
-# [Prev Session](../../<-percent-tp.user.linkPrevSession(tp)--percent>)
+# [<% tp.user.getPrevSession(tp) %>|Prev Session]
 
 ## Recap:
 
@@ -18,4 +18,4 @@ session no.: <% tp.user.getSessionNumber(tp) %>
 
 ## To Do
 
-<%\* await tp.file.rename(tp.user.getSessionNum(tp) + ”\_” + tp.date.now(“DDMMYYYY”)) %>
+<%* await tp.file.rename(tp.user.getSessionNum(tp) + ”_” + tp.date.now(“DDMMYYYY”)) %>

@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "leez-genasi.github.io/iforis/",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "templater"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

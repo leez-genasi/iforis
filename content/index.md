@@ -1,16 +1,17 @@
 *Welcome to the world of Iforis.*
 
-## Player Characters:
+# Player Characters:
 
-* [Arkansas](../iforis/a.-lore/people/Arkansas) (me)
-* [Avery](../iforis/a.-lore/people/Avery-Laitherhem) (Nadia)
-* [Twig](../iforis/a.-lore/people/Thornwick-Meadowlark) (Yu Xuan)
-* [Variel Farinne](../iforis/a.-lore/people/Variel-Farinne) (Wan Sun)
-* [Smith](../iforis/a.-lore/people/Meowtal-Smith) (Jabez)
+* [[Arkansas]] (me)
+* [[Avery Laitherhem]] (Nadia)
+* [[Thornwick Meadowlark]] (Yu Xuan)
+* [[Variel Farinne]] (Wan Sun)
+* [[Meowtal Smith]] (Jabez)
+* [[Shade the Forgotten]] (Yu Jing)
 
-## Timeline:
+# Timeline:
 
-```timeline
+```timeline-labeled
 [line-3, body-2, active-color-text-accent]
 date: 1000 years ago
 title: [[Ersragrun]]'s Reign
@@ -39,7 +40,7 @@ title: Naz'ja Championships
 content: Avery attempts to become High Wizard of Naz'ja (and fails). Rhycharde reigns for another year.
 ```
 
-## Sessions:
+# Sessions:
 
 ```button
 name New Session
@@ -57,7 +58,7 @@ from "sessions"
 SORT file.ctime ASC
 ```
 
-## Notable NPCs:
+# Notable NPCs:
 
 ```dataview
 TABLE

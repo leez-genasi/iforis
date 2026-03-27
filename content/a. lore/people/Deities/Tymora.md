@@ -1,0 +1,5 @@
+---
+tags:
+  - Deities
+publish: true
+---

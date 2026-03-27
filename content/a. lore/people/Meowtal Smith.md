@@ -1,7 +1,0 @@
-### Known Goals:
-
-* ???
-
-### Backstory:
-
-* idk

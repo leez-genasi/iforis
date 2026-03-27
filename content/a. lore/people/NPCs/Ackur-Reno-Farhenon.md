@@ -1,3 +1,9 @@
+---
+tags:
+  - NPCs
+publish: true
+---
+
 ## Interactions
 
 ##### [008\_24012025](../../../../iforis/sessions/008_24012025):

@@ -1,3 +1,9 @@
+---
+tags:
+  - Deities
+publish: true
+---
+
 ### Pact with [Arkansas](../../../../iforis/a.-lore/people/Arkansas)
 
 WARLOCK CONTRACT:

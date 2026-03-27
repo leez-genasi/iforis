@@ -1,0 +1,6 @@
+---
+tags:
+  - people
+publish: true
+---
+

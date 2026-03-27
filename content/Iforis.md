@@ -1,3 +1,9 @@
+---
+tags:
+  - content
+publish: true
+---
+
 *Welcome to the world of Iforis.*
 
 # Player Characters:
@@ -48,8 +54,6 @@ type note(My New Note, tab) template
 action templater-session
 folder sessions
 ```
-
-
 
 ```dataview
 TABLE

@@ -1,11 +1,7 @@
 ---
 tags:
-  - session
-chapter: 2
-location:
-players: Arkansas, Avery, Shade, Smith, Twig, Variel
-date: <% tp.date.now("DDMMYYYY") %>
-session no.: <% tp.user.getSessionNum(tp) %>
+  - templater
+publish: true
 ---
 
 # [<% tp.user.getPrevSession(tp) %>|Prev Session]

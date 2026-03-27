@@ -1,0 +1,6 @@
+---
+tags:
+  - locations
+publish: true
+---
+

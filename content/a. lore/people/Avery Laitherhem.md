@@ -1,7 +1,11 @@
-### Known Goals:
+---
+tags:
+  - people
+publish: true
+---
 
-* power
+### Known Goals:
+- power
 
 ### Backstory:
-
-* Was in the same prison as [Twig](../../../iforis/a.-lore/people/Thornwick-Meadowlark)
+- Was in the same prison as [[Thornwick Meadowlark]]

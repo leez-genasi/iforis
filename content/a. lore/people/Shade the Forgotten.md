@@ -1,3 +1,9 @@
+---
+tags:
+  - people
+publish: true
+---
+
 ![](../../../iforis/img/Shade-the-Forgotten.png)
 
 ### Known Goals:

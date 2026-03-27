@@ -1,3 +1,9 @@
+---
+tags:
+  - NPCs
+publish: true
+---
+
 ## Interactions
 
 ## Appearance

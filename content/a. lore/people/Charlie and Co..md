@@ -1,9 +1,16 @@
+---
+tags:
+  - people
+publish: true
+---
+
 Members:
-[Arkansas](../../../iforis/a.-lore/people/Arkansas)
-[Variel Farinne](../../../iforis/a.-lore/people/Variel-Farinne)
-[Thornwick Meadowlark](../../../iforis/a.-lore/people/Thornwick-Meadowlark)
-[Avery Laitherhem](../../../iforis/a.-lore/people/Avery-Laitherhem)
-[Meowtal Smith](../../../iforis/a.-lore/people/Meowtal-Smith)
+[[Arkansas]]
+[[Avery Laitherhem]]
+[[Thornwick Meadowlark]]
+[[Variel Farinne]]
+[[Meowtal Smith]]
+[[Shade the Forgotten]]
 
 Alliances:
-[Ersragrun](../../../iforis/a.-lore/people/NPCs/Ersragrun)
+[[Ersragrun]]

@@ -1,3 +1,9 @@
+---
+tags:
+  - templater
+publish: true
+---
+
 ## Interactions
 
 ## Appearance

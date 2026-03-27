@@ -1,3 +1,9 @@
+---
+tags:
+  - people
+publish: true
+---
+
 ### Possessions
 
 * Idol of Tymora

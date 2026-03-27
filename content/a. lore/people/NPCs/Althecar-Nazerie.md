@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 tags:
   - NPCs
+=======
+tags:
+  - NPCs
+>>>>>>> 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518
 publish: true
 ---
 
@@ -10,12 +15,12 @@ publish: true
 
 ##### [046\_12032026](../../../../iforis/sessions/046_12032026):
 
-* Ersragrun told us he’s currently investigating the meteorite
+- Ersragrun told us he’s currently investigating the meteorite
 
 ## Appearance
 
-* Tailless black dragonborn, metal staff, draped in robes
-  + Has a metal tail made by Nemaline and Reynald that can move and resembles a real tail
+- Tailless black dragonborn, metal staff, draped in robes
+  - Has a metal tail made by Nemaline and Reynald that can move and resembles a real tail
 
 ## Goals
 
@@ -23,10 +28,10 @@ publish: true
 
 Dragonlord:
 
-* {HIST} There’s a name that’s echoed in tales, there’s a singular being that can speak to and control dragons
+- {HIST} There’s a name that’s echoed in tales, there’s a singular being that can speak to and control dragons
 
 ## Notes
 
-* Can summon a quasidragon from another part of the world or plane of existence
-  + He might or might not be able to control dragonborns given time
-* Many centuries old with an extended lifespan
+- Can summon a quasidragon from another part of the world or plane of existence
+  - He might or might not be able to control dragonborns given time
+- Many centuries old with an extended lifespan

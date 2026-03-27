@@ -1,6 +1,11 @@
 ---
+<<<<<<< HEAD
 tags:
   - Deities
+=======
+tags:
+  - Deities
+>>>>>>> 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518
 publish: true
 ---
 
@@ -37,23 +42,23 @@ Terms of the Pact:
 10. **The Spoil of Victory**
     Every victory must be defiled. Whether a slain enemy or a solved mystery, you must corrupt its aftermath — through plague, ruin, or deception. Tymora may sometimes grant luck to your next endeavor if you risk failure to do so.
 
-\**Tymora will be penalised as per agreement with The Darkbringer, The Jawed God, The Rotting God, The Great Dread God, The Creeping God, Moander*
+\*_Tymora will be penalised as per agreement with The Darkbringer, The Jawed God, The Rotting God, The Great Dread God, The Creeping God, Moander_
 
 ### Notes:
 
-* Previous god of decay:
-  + is technically a 5th-dimensional being
-  + might be able to access his realm through some portals
-* Subsided her position to give to someone else
-* One of the ethereal beings that exists beyond this realm
-* Is very powerful
+- Previous god of decay:
+  - is technically a 5th-dimensional being
+  - might be able to access his realm through some portals
+- Subsided her position to give to someone else
+- One of the ethereal beings that exists beyond this realm
+- Is very powerful
 
 ### Relationship with [Tymora](../../../../iforis/a.-lore/people/Deities/Tymora)
 
-* Someone needed to balance Moander’s power, so Tyche was spawned
-* Existed with grudges, and had some disparities on how worshippers should conduct themselves
-* When Tyche and Moander clashed, it was very desturctive
-  + Tyche got corrupted by Moander
-  + Selune helped split Tyche into Tymora (Lady of Luck) and Bishava (Goddess of bad luck, misfortune, and malice)
-* Tymora didn’t inherit Moander’s corruption, but wanted to put all these behind
-* Moander created a contract where Tymora (who had more followers) would willingly allow a handful of followers every century to form a pact with Moander.
+- Someone needed to balance Moander’s power, so Tyche was spawned
+- Existed with grudges, and had some disparities on how worshippers should conduct themselves
+- When Tyche and Moander clashed, it was very desturctive
+  - Tyche got corrupted by Moander
+  - Selune helped split Tyche into Tymora (Lady of Luck) and Bishava (Goddess of bad luck, misfortune, and malice)
+- Tymora didn’t inherit Moander’s corruption, but wanted to put all these behind
+- Moander created a contract where Tymora (who had more followers) would willingly allow a handful of followers every century to form a pact with Moander.

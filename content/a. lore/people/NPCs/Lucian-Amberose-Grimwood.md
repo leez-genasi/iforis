@@ -8,8 +8,8 @@ publish: true
 
 [010\_10022025](../../../../iforis/sessions/010_10022025):
 
-* Official introduction
-* Went off to help Ersagrun with the Ischianella conquest
+- Official introduction
+- Went off to help Ersagrun with the Ischianella conquest
 
 ## Appearance
 
@@ -17,12 +17,12 @@ publish: true
 
 [010\_10022025](../../../../iforis/sessions/010_10022025):
 
-* Is helping
+- Is helping
 
 ## Notes
 
-* Vampire
-* Lord of the Sanguine Dominian in the Rath Empire
-* Immortal
+- Vampire
+- Lord of the Sanguine Dominian in the Rath Empire
+- Immortal
 
 ## Backstory

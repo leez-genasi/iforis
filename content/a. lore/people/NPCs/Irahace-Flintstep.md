@@ -8,7 +8,7 @@ publish: true
 
 ##### [010\_10022025](../../../../iforis/sessions/010_10022025):
 
-* Official Introduction
+- Official Introduction
 
 ## Appearance
 

@@ -2,7 +2,7 @@
 publish: true
 created: <% tp.date.now("YYYY-MM-DD") %>
 tags:
-  - session
+  - sessions
 ---
 
 ```dataviewjs

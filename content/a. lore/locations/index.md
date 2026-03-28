@@ -1,13 +1,15 @@
 ---
-<<<<<<< HEAD
 tags:
   - locations
 publish: true
 ---
 
-=======
+\=======
 tags:
-  - locations
-publish: true
+
+- locations
+  publish: true
+
 ---
->>>>>>> 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518
+
+> > > > > > > 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518

@@ -1,12 +1,9 @@
 ---
-<<<<<<< HEAD
-tags:
-  - people
-=======
-tags:
-  - people
->>>>>>> 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518
 publish: true
+created: 2026-03-26T19:57:37.223+00:00
+modified: 2026-03-28T14:22:34.409+00:00
+tags:
+  - people
 ---
 
 ### Known Goals:

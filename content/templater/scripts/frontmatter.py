@@ -62,7 +62,7 @@ def make_front_matter(tag: str, filename: str = "") -> str:
             f"tags:\n  - {tag}\n"
             f"session: {parsed['session_no']}\n"
             f"date: {parsed['date']}\n"
-            f"chapter: \n"
+            f"chapter: 1\n"
             f"location: \n"
             f"characters: \n"
             f"description: \n"

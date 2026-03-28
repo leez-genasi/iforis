@@ -1,15 +1,16 @@
 ---
-publish: true
-created: 2026-03-26T19:57:37.209+00:00
-modified: 2026-03-28T14:58:39.774+00:00
 tags:
   - NPCs
+aliases:
+  - Irahace
+affiliation: Ersragrun
+title: Halfling
+race: Assassin Rogue
+class: 
+publish: true
 ---
-
 ## Interactions
-
 ##### [[010_10022025]]
-
 - Official Introduction
 
 ## Appearance

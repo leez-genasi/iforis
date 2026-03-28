@@ -1,18 +1,21 @@
 ---
-publish: true
-aliases:
-  - Althecar
-created: 2026-03-26T19:57:37.204+00:00
-modified: 2026-03-28T14:58:03.312+00:00
 tags:
   - NPCs
+aliases:
+  - Althecar
+affiliation: Ersragrun
+title: 
+race: Dragonborn
+class: 
+publish: true
 ---
 
 ## Interactions
 
-##### [010\_10022025](../../../../iforis/sessions/010_10022025)
+##### [[010_10022025]]:
+- Official introduction
 
-##### [046\_12032026](../../../../iforis/sessions/046_12032026):
+##### [[046_12032026]]
 
 - Ersragrun told us he’s currently investigating the meteorite
 

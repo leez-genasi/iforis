@@ -1,13 +1,12 @@
 ---
 publish: true
-created: 2026-03-26T19:57:37.225+00:00
-modified: 2026-03-28T14:22:35.901+00:00
 tags:
   - people
+aliases:
+  - Variel
 ---
 
 ### Known Goals:
-
 - ???
 - Find out more about her past
   - Rescue Vae from Baator

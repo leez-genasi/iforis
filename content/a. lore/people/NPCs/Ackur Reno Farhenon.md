@@ -1,12 +1,13 @@
 ---
-publish: true
-aliases:
-  - Reno
-title: Archmagus
-created: 2026-03-26T19:57:37.203+00:00
-modified: 2026-03-28T14:57:57.885+00:00
 tags:
   - NPCs
+aliases:
+  - Reno
+affiliation: Ersragrun
+title: Archmagus
+race: 
+class: Wizard
+publish: true
 ---
 
 ## Interactions

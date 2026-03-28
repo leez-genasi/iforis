@@ -1,6 +1,12 @@
 ---
 tags:
-  - templater
+  - NPCs
+aliases:
+  - 
+affiliation: 
+title: 
+race: 
+class: 
 publish: true
 ---
 

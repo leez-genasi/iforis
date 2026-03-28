@@ -1,12 +1,14 @@
 ---
-publish: true
-title: Lord of the Sanguine Domain
-created: 2026-03-26T19:57:37.215+00:00
-modified: 2026-03-28T14:59:41.202+00:00
 tags:
   - NPCs
+aliases:
+  - Lucian
+affiliation: Ersragrun
+title: Lord of the Sanguine Domain
+race: Vampire
+class: 
+publish: true
 ---
-
 ## Interactions:
 
 ##### [[010_10022025]]:

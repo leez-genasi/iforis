@@ -1,14 +1,14 @@
 ---
-publish: true
-aliases:
-  - Rhycharde
-title: High Wizard of Naz'ja
-created: 2026-03-26T19:57:37.219+00:00
-modified: 2026-03-28T15:00:47.075+00:00
 tags:
   - NPCs
+aliases:
+  - Rhycharde
+affiliation: Naz'ja
+title: High Wizard of Naz'ja
+race: Half-Elf
+class: Wizard
+publish: true
 ---
-
 ## Interactions
 
 ## Appearance

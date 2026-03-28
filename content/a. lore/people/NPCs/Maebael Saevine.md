@@ -2,7 +2,6 @@
 publish: true
 aliases:
   - Maebael
-title: Secretary to the High Wizard
 created: 2026-03-26T19:57:37.217+00:00
 tags:
   - NPCs

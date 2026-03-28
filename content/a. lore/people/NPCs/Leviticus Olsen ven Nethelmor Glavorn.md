@@ -2,7 +2,6 @@
 publish: true
 aliases:
   - Long
-title: Platinum Adventurer
 created: 2026-03-26T19:57:37.212+00:00
 tags:
   - NPCs

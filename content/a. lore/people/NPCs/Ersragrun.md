@@ -2,7 +2,6 @@
 publish: true
 aliases:
   - Ersra
-title: Eye of Stran
 created: 2026-03-26T19:57:37.207+00:00
 tags:
   - NPCs
@@ -29,11 +28,11 @@ tags:
 
 ### Members of her Council:
 
-[Lucian Amberose Grimwood](../../../../iforis/a.-lore/people/NPCs/Lucian-Amberose-Grimwood)
-[Ackur Reno Farhenon](../../../../iforis/a.-lore/people/NPCs/Ackur-Reno-Farhenon)
-[Althecar Nazerie](../../../../iforis/a.-lore/people/NPCs/Althecar-Nazerie)
-[Nemaline Lorsch](../../../../iforis/a.-lore/people/NPCs/Nemaline-Lorsch)
-[Irahace Flintstep](../../../../iforis/a.-lore/people/NPCs/Irahace-Flintstep)
+- [[Lucian Amberose Grimwood]]
+- [[Althecar Nazerie]]
+- [[Ackur Reno Farhenon]]
+- [[Nemaline Lorsch]]
+- [[Irahace Flintstep]]
 
 ## Notes:
 

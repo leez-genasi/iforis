@@ -33,3 +33,7 @@ date: 2-3 months
 title: Naz'ja Championships
 content: Avery attempts to become High Wizard of Naz'ja (and fails). Rhycharde reigns for another year.
 ```
+
+> [!info] **1000 years ago**
+> **Ersragrun's first conquest**
+> Ersragrun rules majority of world, breaks up the two ruling empires on each continent.

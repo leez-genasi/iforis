@@ -1,15 +1,11 @@
 ---
-tags: 
-- session
-session: <% tp.user.getSessionNum(tp) %>
-date: <% tp.date.now("YYYY-MM-DD") %>
-chapter: 2
-location: 
-characters: Arkansas, Avery, Twig, Variel, Shade
-description: 
 publish: true
+created: <% tp.date.now("YYYY-MM-DD") %>
+tags:
+  - session
 ---
-```dataviewjs  
+
+```dataviewjs
 const fm = dv.current();  
   
 dv.paragraph(  

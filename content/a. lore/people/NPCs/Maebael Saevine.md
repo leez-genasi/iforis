@@ -1,14 +1,13 @@
 ---
-tags:
-  - NPCs
+publish: true
 aliases:
   - Maebael
-affiliation: 
 title: Secretary to the High Wizard
-race: 
-class: Wizrd
-publish: true
+created: 2026-03-26T19:57:37.217+00:00
+tags:
+  - NPCs
 ---
+
 ## Interactions
 
 ## Appearance

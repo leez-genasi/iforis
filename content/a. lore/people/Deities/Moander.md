@@ -1,7 +1,8 @@
 ---
+publish: true
+created: 2026-03-26T19:57:37.196+00:00
 tags:
   - Deities
-publish: true
 ---
 
 ### Pact with [Arkansas](../../../../iforis/a.-lore/people/Arkansas)

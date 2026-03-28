@@ -1,14 +1,13 @@
 ---
-tags:
-  - NPCs
+publish: true
 aliases:
   - Long
-affiliation: Adventurer's Guild
 title: Platinum Adventurer
-race: 
-class: Paladin?
-publish: true
+created: 2026-03-26T19:57:37.212+00:00
+tags:
+  - NPCs
 ---
+
 ## Interactions
 
 ## Appearance

@@ -1,14 +1,13 @@
 ---
-tags:
-  - NPCs
+publish: true
 aliases:
   - Ersra
-affiliation: Ersragrun
 title: Eye of Stran
-race: Lich
-class: 
-publish: true
+created: 2026-03-26T19:57:37.207+00:00
+tags:
+  - NPCs
 ---
+
 ## Interactions:
 
 [010\_10022025](../../../../iforis/sessions/010_10022025):

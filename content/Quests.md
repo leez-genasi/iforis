@@ -11,14 +11,16 @@ tags:
   - Gorn in Brovilne
   - Mystra in Zirguisse, Naz’ja
   - Azuth in Harrissu, Naz’ja
+    - THE REAL ONE
 - Adventurer’s Guild:
   - Dangerous jellyfish in Ysearvyx
   - Giants in cave in Ysearvyx
   - Escort cartographer to the Underdark near Barton
 - [[Mystra]]
-  - Find [[Rhycharde|Rhycharde]]
+  - Find [[Rhycharde Lannis|Rhycharde]]
   - Meet the Priests of Mystra
-  - Investigate [Maebael Saevine](../iforis/a.-lore/people/NPCs/Maebael-Saevine)
+  - Investigate [[Maebael Saevine]]
+    - Convict Maebael (we killed her lol)
 - Meteor
   - Head of Tudia Isles and investigate the cave
   - Climb Rath Mountain (Avery’s Quest)

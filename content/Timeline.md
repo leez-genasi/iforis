@@ -5,35 +5,28 @@ tags:
   - world
 ---
 
-```timeline-labeled
-[line-3, body-2, active-color-text-accent]
-date: 1000 years ago
-title: [[Ersragrun]]'s Reign
-content: Esragrun rules a majority of the world
- 
-date: 400 years ago
-title: Eldersong War
-content: Human vs. elf war. Caused elves to be driven out of Tofla. 
- 
-date: Year 1937 - Day 0
-title: Adventure Begins
- 
-date: [[010_10022025|Day 20]]
-title: Picking Sides
-content: We join Esragrun
- 
-date: [[018_25042025|Day 26]]
-title: A Side Quest
-content: We venture into the Underdark and discover [[Reno]]'s zombie serum
- 
-date: two weeks ago
-title: Meteor Crash Lands on Iforis
- 
-date: 2-3 months
-title: Naz'ja Championships
-content: Avery attempts to become High Wizard of Naz'ja (and fails). Rhycharde reigns for another year.
-```
-
-> [!info] **1000 years ago**
+> [!danger] 1000 years ago
 > **Ersragrun's first conquest**
 > Ersragrun rules majority of world, breaks up the two ruling empires on each continent.
+
+> [!danger] 400 years ago
+> **Eldersong War**
+> Human vs. Elf war, caused elves to be cast out of Tofla
+
+> [!quote] Year 1937 - [[001_09102024|Day 0]]
+> **Adventure Begins**
+
+> [!danger] Day 20
+> **[[010_10022025|Picking Sides]]**
+> Ersragrun storms Ischianella, capital of Keolon. Charlie & Co. joins her at her invitation.
+
+> [!bug] Day 26
+> **[[018_25042025|Army Recruitment]]**
+> We venture into the Underdark and stumbles upon [[Ackur Reno Farhenon|Reno]]'s underground lab and an experiment he is conducting on the local residents
+
+> [!warning] Two Weeks Ago
+> **Meteor Crash Lands on Iforis**
+
+> [!tip] 2-3 Months
+> **Nar'ja Championships**
+> Avery attempts (and fails) to become High Wizard by taking part in the Nar'ja Championships. [[Rhycharde Lannis]] reigns for another two years.

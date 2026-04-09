@@ -18,7 +18,7 @@ dv.paragraph(
 );
 ```
 
-# \[<% tp.user.getPrevSession(tp) %>|Prev Session]
+# [[<% tp.user.getPrevSession(tp) %>|Prev Session]]
 
 ## Recap:
 
@@ -28,4 +28,4 @@ dv.paragraph(
 
 ## To Do
 
-<%\* await tp.file.rename(tp.user.getSessionNum(tp) + ”\_” + tp.date.now(“DDMMYYYY”)) %>
+<%\* await tp.file.rename(tp.user.getSessionNum(tp) + "\_" + tp.date.now("DDMMYYYY")) %>

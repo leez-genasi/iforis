@@ -18,6 +18,9 @@ tags:
 - In Brovilne, Ersragrun crashes the Temple of Gorn and takes the Gorn amulet for herself
 - She kills Rekaz after he challenges her
 - Updates us on the conquest
+  [[049_22042026]]:
+- we return to her castle and turn in the amulets for rewards
+- she gives us a new quest to do whatever we must to ensure that the war between the Lurian and Rath Empires continue
 
 ## Appearance
 

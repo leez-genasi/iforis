@@ -5,6 +5,8 @@ tags:
   - locations
 ---
 
+![[img/zirguisse_city_map.png]]
+
 ## History
 
 ## Structures

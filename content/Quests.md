@@ -5,13 +5,17 @@ tags:
   - world
 ---
 
-- [[Ersragrun]]’s Amulets
-  - Talona
-  - Tempest with Rekaz in Brovilne
-  - Gorn in Brovilne
-  - Mystra in Zirguisse, Naz’ja
-  - Azuth in Harrissu, Naz’ja
-    - THE REAL ONE
+- Ersragrun
+  - [[Ersragrun]]’s Amulets
+    - Talona, Goddess of Disease, in Yrerex, Birdenia
+    - Tempest, God of War, with Rekaz in Brovilne
+    - Gorn, God of Craft,  in Brovilne
+    - Mystra, Goddess of Magic,  in Zirguisse, Naz’ja
+    - Azuth, God of Wizards,  in Harrissu, Naz’ja
+      - THE REAL ONE
+    - Auril, Goddess of WInter in [[049_22042026|UNKNOWN]]
+      - Head to Vr'no'serosc
+  - Ensure that the Rath-Lurian War goes on
 - Adventurer’s Guild:
   - Dangerous jellyfish in Ysearvyx
   - Giants in cave in Ysearvyx
@@ -26,7 +30,7 @@ tags:
   - Climb Rath Mountain (Avery’s Quest)
 - Arkansas’ Quest
   - Turn the Fountain into a shrine
-  - Find a temple/priest to bless the ‘Tymora’ sign
+    - Find a temple/priest to bless the ‘Tymora’ sign
 - Variel’s Quest
   - Break Inlahala out of prison
   - Find Vae in Baator

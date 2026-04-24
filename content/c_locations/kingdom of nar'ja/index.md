@@ -12,8 +12,8 @@ tags:
 
 | File                                                    | Title                        |
 | ------------------------------------------------------- | ---------------------------- |
-| [[b_people/NPCs/Maebael Saevine.md\|Maebael Saevine]]   | Secretary to the High Wizard |
 | [[b_people/NPCs/Rhycharde Lannis.md\|Rhycharde Lannis]] | High Wizard of Naz'ja        |
+| [[b_people/NPCs/Maebael Saevine.md\|Maebael Saevine]]   | Secretary to the High Wizard |
 
 # Cities
 

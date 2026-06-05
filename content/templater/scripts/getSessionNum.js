@@ -1,6 +1,6 @@
 function getSessionNum(tp) {
     let files = app.vault.getMarkdownFiles().filter(
-        f => f.path.startsWith("sessions/"));
+        f => f.path.startsWith("a_sessions/"));
     let num = String(files.length);
 
     while (num.length < 3) {

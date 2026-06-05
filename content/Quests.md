@@ -1,77 +1,42 @@
 ---
 publish: true
-created: 2026-03-26T19:57:37.228+00:00
-modified: 2026-03-28T15:00:52.696+00:00
 tags:
-  - content
+  - world
 ---
 
-- [Ersragrun](../iforis/a.-lore/people/NPCs/Ersragrun)’s Amulets
-  - Talona
-  - Tempest with Rekaz in Brovilne
-  - Gorn in Brovilne
-  - Mystra in Zirguisse, Naz’ja
-  - Azuth in Harrissu, Naz’ja
-- Adventurer’s Guild:
-  - Dangerous jellyfish in Ysearvyx
-  - Giants in cave in Ysearvyx
-  - Escort cartographer to the Underdark near Barton
-- [Mystra](../Mystra)
-  - Find [Rhycharde](../iforis/a.-lore/people/NPCs/Rhycharde)
-  - Meet the Priests of Mystra
-  - Investigate [Maebael Saevine](../iforis/a.-lore/people/NPCs/Maebael-Saevine)
-- Meteor
-  - Head of Tudia Isles and investigate the cave
-  - Climb Rath Mountain (Avery’s Quest)
-- Arkansas’ Quest
-  - Turn the Fountain into a shrine
-    - Find a temple/priest to bless the ‘Tymora’ sign
-- Variel’s Quest
-  - Break Inlahala out of prison
-  - Find Vae in Baator
-- Avery’s Quest
-  - Tallest mountain in Rath
-  - Fountain of arcane energy
-  - Long
-    - Investigate the Negative Weave conflux in Emaba
-- Twig’s Quest
-  - Poral
-    \=======
-    tags:
-  - content
-    publish: true
-
----
-
-- [Ersragrun](../iforis/a.-lore/people/NPCs/Ersragrun)’s Amulets
-  - Talona
-  - Tempest with Rekaz in Brovilne
-  - Gorn in Brovilne
-  - Mystra in Zirguisse, Naz’ja
-  - Azuth in Harrissu, Naz’ja
-- Adventurer’s Guild:
-  - Dangerous jellyfish in Ysearvyx
-  - Giants in cave in Ysearvyx
-  - Escort cartographer to the Underdark near Barton
-- [Mystra](../Mystra)
-  - Find [Rhycharde](../iforis/a.-lore/people/NPCs/Rhycharde)
-  - Meet the Priests of Mystra
-  - Investigate [Maebael Saevine](../iforis/a.-lore/people/NPCs/Maebael-Saevine)
-- Meteor
-  - Head of Tudia Isles and investigate the cave
-  - Climb Rath Mountain (Avery’s Quest)
-- Arkansas’ Quest
-  - Turn the Fountain into a shrine
-    - Find a temple/priest to bless the ‘Tymora’ sign
-- Variel’s Quest
-  - Break Inlahala out of prison
-  - Find Vae in Baator
-- Avery’s Quest
-  - Tallest mountain in Rath
-  - Fountain of arcane energy
-  - Long
-    - Investigate the Negative Weave conflux in Emaba
-- Twig’s Quest
-  - Poral
-
-> > > > > > > 52d9d10f26ccacab3bbbfb1fe11d28100ca8e518
+- [ ] Ersragrun
+	- [ ] [[Ersragrun]]’s Amulets
+		- [x] Talona, Goddess of Disease, in Yrerex, Birdenia
+		- [x] Tempest, God of War, with Rekaz in Brovilne
+		- [x] Gorn, God of Craft,  in Brovilne
+		- [x] Mystra, Goddess of Magic,  in Zirguisse, Naz’ja
+		- [x] Azuth, God of Wizards,  in Harrissu, Naz’ja
+			- [ ] THE REAL ONE
+		- [ ] Auril, Goddess of WInter in [[049_22042026|UNKNOWN]]
+			- [ ] Head to Vr'no'serosc
+	- [ ] Ensure that the Rath-Lurian War goes on
+- [ ] Adventurer’s Guild:
+	- [x] Dangerous jellyfish in Ysearvyx
+	- [x] Giants in cave in Ysearvyx
+	- [x] Escort cartographer to the Underdark near Barton
+- [ ] [[Mystra]]
+	- [x] Find [[Rhycharde Lannis|Rhycharde]]
+	- [x] Meet the Priests of Mystra
+	- [x] Investigate [[Maebael Saevine]]
+		- [x] Convict Maebael (we killed her lol)
+- [ ] Meteor
+	- [ ] Head of Tudia Isles and investigate the cave
+	- [ ] Climb Rath Mountain (Avery’s Quest)
+- [ ] Arkansas’ Quest
+	- [ ] Turn the Fountain into a shrine
+		- [ ] Find a temple/priest to bless the ‘Tymora’ sign
+- [ ] Variel’s Quest
+	- [x] Break Inlahala out of prison
+	- [ ] Find Vae in Baator
+- [ ] Avery’s Quest
+	- [ ] Tallest mountain in Rath
+	- [x] Fountain of arcane energy
+	- [ ] Long
+		- [ ] Investigate the Negative Weave conflux in Emaba
+- [ ] Twig’s Quest
+	- [ ] Poral

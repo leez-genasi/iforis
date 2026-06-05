@@ -1,12 +1,17 @@
 ---
-tags: 
-- session
+tags:
+  - sessions
 session: <% tp.user.getSessionNum(tp) %>
 date: <% tp.date.now("YYYY-MM-DD") %>
-chapter: 2
-location: 
-characters: Arkansas, Avery, Twig, Variel, Shade
-description: 
+chapter: 3
+location:
+characters:
+  - "[[Arkansas]]"
+  - "[[Avery Laitherhem|Avery]]"
+  - "[[Thornwick Meadowlark|Twig]]"
+  - "[[Variel Farinne|Variel]]"
+  - "[[Shade the Forgotten|Shade]]"
+description:
 publish: true
 ---
 ```dataviewjs  
@@ -22,7 +27,7 @@ dv.paragraph(
 );
 ```
 
-# \[<% tp.user.getPrevSession(tp) %>|Prev Session]
+# [[<% tp.user.getPrevSession(tp) %>|Prev Session]]
 
 ## Recap:
 
@@ -32,4 +37,4 @@ dv.paragraph(
 
 ## To Do
 
-<%\* await tp.file.rename(tp.user.getSessionNum(tp) + ”\_” + tp.date.now(“DDMMYYYY”)) %>
+<%* await tp.file.rename(tp.user.getSessionNum(tp) + "_" + tp.date.now("DDMMYYYY")) %>

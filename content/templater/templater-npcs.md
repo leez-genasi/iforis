@@ -3,10 +3,12 @@ tags:
   - NPCs
 aliases:
   - 
-affiliation: 
-title: 
-race: 
-class: 
+affiliation:
+titles:
+status:
+kingdom:
+race:
+class:
 publish: true
 ---
 

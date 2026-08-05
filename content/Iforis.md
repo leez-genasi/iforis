@@ -44,7 +44,6 @@ SORT file.name desc
 ```
 
 # Notable NPCs:
-
 ```dataview
 TABLE
 affiliation as "Affiliation", title as "Title"

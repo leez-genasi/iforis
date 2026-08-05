@@ -6,9 +6,10 @@ aliases:
 affiliation:
 titles: Secretary to the High Wizard
 status: Dead
-kingdom: Nar'ja
+kingdom:
+  - "[[c_locations/kingdom of nar'ja/index|Kingdom of Nar'ja]]"
 race:
-class: Wizrd
+class: Wizard
 publish: true
 ---
 ## Interactions:
@@ -26,7 +27,7 @@ publish: true
 
 ## Notes
 
-- Helps out with admin and paperwork, gives Rhychard updates every day on things that are happening in each ministry
+- Helps out with admin and paperwork, gives [[Rhychard]] updates every day on things that are happening in each ministry
 - Could be omitting information
 - Rhychard won’t disagree but says she’s been trustworthy
 - Rhychard said that she doesn’t need to work as the Cabinet is on hold lmao
@@ -44,7 +45,6 @@ publish: true
   - We could def beat her up
 
 #### Timetable
-
 - Lives near the Port of Zirguisse, has a big window so she can just fly in and out of the room
   Monday:
 - Goes to work, get a breakfast from a café along the way, ride her broom to the office and stays there for 12-14 hours.
@@ -63,5 +63,4 @@ publish: true
   ^ Always seem to come home about the same time 10-11pm
 
 #### Spells:
-
 - can summon a Rakshasa??

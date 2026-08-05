@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "characters": "multitext",
+    "location": "multitext",
+    "ruler": "multitext",
+    "affiliation": "multitext",
+    "kingdom": "multitext"
+  }
+}

@@ -6,7 +6,8 @@ aliases:
 affiliation: Ersragrun
 titles: Lord of the Sanguine Domain
 status: Undead
-kingdom: Rath Empire
+kingdom:
+  - "[[c_locations/rath empire/index|Rath Empire]]"
 race: Vampire
 class:
 publish: true

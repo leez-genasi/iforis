@@ -22,7 +22,7 @@ aliases:
 TABLE
 titles AS "Title"
 FROM #NPCs
-WHERE kingdom = "Rath Empire"
+WHERE contains(kingdom, [[c_locations/rath empire/index]])
 ```
 # Cities
 ```dataview

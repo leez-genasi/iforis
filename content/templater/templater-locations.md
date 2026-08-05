@@ -4,5 +4,7 @@ tags:
 kingdom:
 city:
 publish: true
+aliases:
+  - 
 ---
 # Places

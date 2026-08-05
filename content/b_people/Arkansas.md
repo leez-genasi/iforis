@@ -1,7 +1,10 @@
 ---
 tags:
-  - people
+  - party
 publish: true
+aliases:
+race: human
+class: great old one warlock
 ---
 ### Possessions
 

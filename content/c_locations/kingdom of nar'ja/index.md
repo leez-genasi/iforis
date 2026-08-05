@@ -11,7 +11,7 @@ aliases:
 TABLE
 titles AS "Title"
 FROM #NPCs
-WHERE kingdom = "Nar'ja"
+WHERE contains(kingdom, [[c_locations/kingdom of nar'ja/index]])
 ```
 # Cities
 ```dataview

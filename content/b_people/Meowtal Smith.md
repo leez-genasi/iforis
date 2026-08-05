@@ -1,6 +1,6 @@
 ---
 tags:
-  - people
+  - party
 publish: true
 aliases:
   - Smith

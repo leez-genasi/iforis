@@ -1,10 +1,9 @@
 ---
+tags:
+  - party
 publish: true
 aliases:
   - Shade
-created: 2026-03-26T19:57:37.222+00:00
-tags:
-  - people
 ---
 
 ![](../../../iforis/img/Shade-the-Forgotten.png)

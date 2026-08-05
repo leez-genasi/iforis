@@ -1,7 +1,7 @@
 ---
-publish: true
 tags:
-  - people
+  - party
+publish: true
 aliases:
   - Twig
 race: halfling

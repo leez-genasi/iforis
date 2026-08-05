@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"tags\":sessions",
+      "color": {
+        "a": 1,
+        "rgb": 7546814
+      }
+    },
+    {
+      "query": "[\"tags\":party]",
+      "color": {
+        "a": 1,
+        "rgb": 10101539
+      }
+    },
+    {
+      "query": "[\"tags\":deities]",
+      "color": {
+        "a": 1,
+        "rgb": 11322422
+      }
+    },
+    {
+      "query": "[\"tags\":npcs]",
+      "color": {
+        "a": 1,
+        "rgb": 13911574
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.13168724279835473,
+  "close": true
+}

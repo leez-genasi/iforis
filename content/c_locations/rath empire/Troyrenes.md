@@ -18,8 +18,8 @@ publish: true
 
 ## Notes
 - Contains a teleportation circle from Stran Castle
-
 ## Interactions
 [[049_22042026]]:
 - First arrival into the town
 - Took a look at the citadel
+

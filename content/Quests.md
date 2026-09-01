@@ -7,19 +7,25 @@ tags:
 - [ ] Ersragrun
 	- [ ] [[Ersragrun]]’s Amulets
 		- [x] Talona, Goddess of Disease, in Yrerex, Birdenia
+			- kept by Avery
 		- [x] Tempest, God of War, with Rekaz in Brovilne
+			- given to Ersra
 		- [x] Gorn, God of Craft,  in Brovilne
+			- given to Ersra
 		- [x] Mystra, Goddess of Magic,  in Zirguisse, Naz’ja
+			- kept by Arkansas
 		- [x] Azuth, God of Wizards,  in Harrissu, Naz’ja
 			- [ ] THE REAL ONE
 		- [ ] Auril, Goddess of WInter in [[049_22042026|UNKNOWN]]
 			- [ ] Head to Vr'no'serosc
-	- [ ] Ensure that the Rath-Lurian War goes on
+		- [ ] Tymora, Goddess of Fortune
+		- [ ] Beshaba, Goddess of Misfortune
+	- [x] Ensure that the Rath-Lurian War goes on
 - [ ] Adventurer’s Guild:
 	- [x] Dangerous jellyfish in Ysearvyx
 	- [x] Giants in cave in Ysearvyx
 	- [x] Escort cartographer to the Underdark near Barton
-- [ ] [[Mystra]]
+- [x] [[Mystra]]
 	- [x] Find [[Rhycharde Lannis|Rhycharde]]
 	- [x] Meet the Priests of Mystra
 	- [x] Investigate [[Maebael Saevine]]

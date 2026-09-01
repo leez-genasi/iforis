@@ -16,3 +16,6 @@ class: bard
 
 - Appeared somewhere
 - Was picked up by a circus, grew up with a grandmother-type figure
+
+
+Copper

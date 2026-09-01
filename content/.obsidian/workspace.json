@@ -31,8 +31,51 @@
               "icon": "lucide-file",
               "title": "Iforis"
             }
+          },
+          {
+            "id": "0f218af0fca2dc27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_sessions/056_01092026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "056_01092026"
+            }
+          },
+          {
+            "id": "b8570d86881616d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "a_sessions/054_18082026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "054_18082026"
+            }
+          },
+          {
+            "id": "8c323b2f8fe2d177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b_people/Deities/Tymora.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tymora"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "6619bc88af10cb63",
@@ -42,7 +85,7 @@
           {
             "id": "e7ecc2127db57f1a",
             "type": "tabs",
-            "dimension": 46.996124031007746,
+            "dimension": 42.59708737864077,
             "children": [
               {
                 "id": "acc29c48afaff989",
@@ -61,7 +104,7 @@
           {
             "id": "17ba074d50f0fae3",
             "type": "tabs",
-            "dimension": 53.003875968992254,
+            "dimension": 57.40291262135923,
             "children": [
               {
                 "id": "ac29165fd0f9f313",
@@ -248,11 +291,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "013df984e4bf5238",
+  "active": "b8570d86881616d4",
   "lastOpenFiles": [
-    "a_sessions/054_05082026.md",
+    "a_sessions/056_01092026.md",
+    "a_sessions/054_18082026.md",
+    "b_people/Deities/Tymora.md",
+    "056_010920261.md",
+    "a_sessions/055_18082026.md",
+    "Quests.md",
+    "b_people/Arkansas.md",
+    "a_sessions/012_05032025.md",
+    "a_sessions/041_22012026.md",
+    "b_people/Variel Farinne.md",
     "Iforis.md",
+    "img/Pasted image 20260818153052.png",
     "a_sessions/053_18062026.md",
+    "a_sessions/054_05082026.md",
     "a_sessions/033_02092025.md",
     "a_sessions/014_26022026.md",
     "a_sessions/001_09102024.md",
@@ -260,7 +314,6 @@
     "a_sessions/051_17062026.md",
     "a_sessions/052_17062026.md",
     "a_sessions/002_16102024.md",
-    "Quests.md",
     "img/Pasted image 20260617231224.png",
     "img/Pasted image 20260617230055.png",
     "img/Pasted image 20260617225701.png",
@@ -273,14 +326,6 @@
     "c_locations/kingdom of nar'ja/Zirguisse.md",
     "a_sessions/046_12032026.md",
     "undefined.md",
-    "templater/templater-city.md",
-    "templater/templater-locations.md",
-    "Timeline.md",
-    "Untitled.md",
-    "c_locations/rath empire/Troyrenes.md",
-    "a_sessions/049_22042026.md",
-    "b_people/NPCs/Rhycharde Lannis.md",
-    "c_locations/rath empire/index.md",
-    "b_people/NPCs/Lucian Amberose Grimwood.md"
+    "templater/templater-city.md"
   ]
 }

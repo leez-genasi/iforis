@@ -22,3 +22,5 @@ publish: true
 ## Backstory
 
 ## Notes
+- doesn't like watching
+	- would rather fight through 10 guards than wait for his target

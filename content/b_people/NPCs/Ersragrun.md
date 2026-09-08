@@ -48,6 +48,10 @@ publish: true
   - was alive a millennium ago, but was defeated by a paladin and his party using the deity’s amulets
   - Conquered almost all of the world
   - Was resurrected due to her 5 generals (no details)
+	  - Was brought back to life about 5 years ago by some adventurer who went spelunking
+		  - his life was taken by Ersra for long enough that she could take more life around the area
+		  - the crypt is very deep underground (even deeper than the Underdark)
+	  - And was found by Irahace
 
 Previous Campaign:
 - lost because she did not bother about the deities

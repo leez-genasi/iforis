@@ -15,6 +15,9 @@ publish: true
 ##### [[010_10022025]]:
 - Official introduction
 
+##### [[057_08092026]]:
+- We meet in Chich, in the SIlvanus District
+
 ## Appearance
 
 ## Goals

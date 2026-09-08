@@ -38,30 +38,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_sessions/056_01092026.md",
+                "file": "a_sessions/057_08092026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "056_01092026"
+              "title": "057_08092026"
             }
           },
           {
-            "id": "b8570d86881616d4",
+            "id": "ee27c3be519e3ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a_sessions/054_18082026.md",
+                "file": "b_people/NPCs/Lucian Amberose Grimwood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "054_18082026"
+              "title": "Lucian Amberose Grimwood"
             }
           },
           {
-            "id": "8c323b2f8fe2d177",
+            "id": "0c157ec07f985a4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,9 +73,23 @@
               "icon": "lucide-file",
               "title": "Tymora"
             }
+          },
+          {
+            "id": "8c323b2f8fe2d177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "b_people/NPCs/Irahace Flintstep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Irahace Flintstep"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "6619bc88af10cb63",
@@ -280,22 +294,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quartz-syncer:Quartz Syncer Publication Center": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "quartz-syncer:Quartz Syncer publication center": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b8570d86881616d4",
+  "active": "0f218af0fca2dc27",
   "lastOpenFiles": [
+    "b_people/NPCs/Lucian Amberose Grimwood.md",
+    "b_people/Deities/Tymora.md",
+    "b_people/NPCs/Irahace Flintstep.md",
+    "a_sessions/057_08092026.md",
+    "b_people/NPCs/Ersragrun.md",
+    "b_people/NPCs/Nemaline Lorsch.md",
     "a_sessions/056_01092026.md",
     "a_sessions/054_18082026.md",
-    "b_people/Deities/Tymora.md",
+    "img/Pasted image 20260908151549.png",
+    "a_sessions/010_10022025.md",
+    "a_sessions/053_18062026.md",
+    "b_people/Deities/Moander.md",
+    "a_sessions/049_22042026.md",
+    "img/Pasted image 20260908135453.png",
+    "img/Pasted image 20260908135450.png",
+    "Iforis.md",
     "056_010920261.md",
     "a_sessions/055_18082026.md",
     "Quests.md",
@@ -303,29 +330,18 @@
     "a_sessions/012_05032025.md",
     "a_sessions/041_22012026.md",
     "b_people/Variel Farinne.md",
-    "Iforis.md",
     "img/Pasted image 20260818153052.png",
-    "a_sessions/053_18062026.md",
     "a_sessions/054_05082026.md",
     "a_sessions/033_02092025.md",
     "a_sessions/014_26022026.md",
     "a_sessions/001_09102024.md",
     "a_sessions/050_17062026.md",
     "a_sessions/051_17062026.md",
-    "a_sessions/052_17062026.md",
-    "a_sessions/002_16102024.md",
     "img/Pasted image 20260617231224.png",
     "img/Pasted image 20260617230055.png",
     "img/Pasted image 20260617225701.png",
-    "b_people/Deities/Moander.md",
     "img/Pasted image 20260409160856.png",
     "img/amulet_azuth.png",
-    "img/azuth_amulet_fake.png",
-    "img/sileanaro_map.png",
-    "a_sessions/048_09042026.md",
-    "c_locations/kingdom of nar'ja/Zirguisse.md",
-    "a_sessions/046_12032026.md",
-    "undefined.md",
-    "templater/templater-city.md"
+    "img/azuth_amulet_fake.png"
   ]
 }

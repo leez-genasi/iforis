@@ -19,6 +19,9 @@ publish: true
 ##### [[046_12032026]] (mentioned)
 - Ersragrun told us he’s currently investigating the meteorite
 
+##### [[060_08092026]] (mentioned)
+- Is still on the Tudia Isles
+
 ## Appearance
 - Tailless black dragonborn, metal staff, draped in robes
   - Has a metal tail made by Nemaline and Reynald that can move and resembles a real tail

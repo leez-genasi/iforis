@@ -19,7 +19,7 @@ publish: true
 - Official introduction
 - Went off to help Ersagrun with the Ischianella conquest
 
-##### [[057_08092026]]:
+##### [[060_08092026]]:
 - We find out that he May have betrayed Ersra
 
 ## Appearance

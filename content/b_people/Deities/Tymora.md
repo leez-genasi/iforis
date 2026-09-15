@@ -4,7 +4,7 @@ tags:
 publish: true
 ---
 ## Amulet
-- The amulets seem to be the way the gods have connection to the Material Plane [[a_sessions/056_01092026]]]
+- The amulets seem to be the way the gods have connection to the Material Plane [[059_01092026]]]
 
 
 ### QUESTIONS w/ ANSWERS:  
@@ -68,4 +68,5 @@ How was Tyche and Moander became deities:
 
 # Questions:
 - [ ] Is there any chance that if Moander was defeated, the same cycle would happen between Beshaba and Tymora?
+	- Good theory, but what if 
 - [ ] What is Beshaba's r/s with Moander?

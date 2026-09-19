@@ -32,15 +32,16 @@ tags:
 		- [x] Convict Maebael (we killed her lol)
 - [ ] Meteor
 	- [ ] Head of Tudia Isles and investigate the cave
-	- [ ] Climb Rath Mountain (Avery’s Quest)
+	- [x] Climb Rath Mountain (Avery’s Quest)
 - [ ] Arkansas’ Quest
 	- [ ] Turn the Fountain into a shrine
-		- [ ] Find a temple/priest to bless the ‘Tymora’ sign
+		- [x] Find a temple/priest to bless the ‘Tymora’ sign
 - [ ] Variel’s Quest
 	- [x] Break Inlahala out of prison
 	- [ ] Find Vae in Baator
 - [ ] Avery’s Quest
-	- [ ] Tallest mountain in Rath
+	- [x] Tallest mountain in Rath (Mt. Silver)
+		- [ ] Return there once she's worthy
 	- [x] Fountain of arcane energy
 	- [ ] Long
 		- [ ] Investigate the Negative Weave conflux in Emaba

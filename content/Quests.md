@@ -1,49 +1,50 @@
 ---
 publish: true
+created: 2026-03-26T19:57:37.228Z
+modified: 2026-09-01T14:58:11.347Z
 tags:
   - world
 ---
 
 - [ ] Ersragrun
-	- [ ] [[Ersragrun]]’s Amulets
-		- [x] Talona, Goddess of Disease, in Yrerex, Birdenia
-			- kept by Avery
-		- [x] Tempest, God of War, with Rekaz in Brovilne
-			- given to Ersra
-		- [x] Gorn, God of Craft,  in Brovilne
-			- given to Ersra
-		- [x] Mystra, Goddess of Magic,  in Zirguisse, Naz’ja
-			- kept by Arkansas
-		- [x] Azuth, God of Wizards,  in Harrissu, Naz’ja
-			- [ ] THE REAL ONE
-		- [ ] Auril, Goddess of WInter in [[049_22042026|UNKNOWN]]
-			- [ ] Head to Vr'no'serosc
-		- [ ] Tymora, Goddess of Fortune
-		- [ ] Beshaba, Goddess of Misfortune
-	- [x] Ensure that the Rath-Lurian War goes on
+  - [ ] [[Ersragrun]]’s Amulets
+    - [x] Talona, Goddess of Disease, in Yrerex, Birdenia
+      - kept by Avery
+    - [x] Tempest, God of War, with Rekaz in Brovilne
+      - given to Ersra
+    - [x] Gorn, God of Craft,  in Brovilne
+      - given to Ersra
+    - [x] Mystra, Goddess of Magic,  in Zirguisse, Naz’ja
+      - kept by Arkansas
+    - [x] Azuth, God of Wizards,  in Harrissu, Naz’ja
+      - [ ] THE REAL ONE
+    - [ ] Auril, Goddess of WInter in [[049_22042026|UNKNOWN]]
+      - [ ] Head to Vr'no'serosc
+    - [ ] Tymora, Goddess of Fortune
+    - [ ] Beshaba, Goddess of Misfortune
+  - [x] Ensure that the Rath-Lurian War goes on
 - [ ] Adventurer’s Guild:
-	- [x] Dangerous jellyfish in Ysearvyx
-	- [x] Giants in cave in Ysearvyx
-	- [x] Escort cartographer to the Underdark near Barton
+  - [x] Dangerous jellyfish in Ysearvyx
+  - [x] Giants in cave in Ysearvyx
+  - [x] Escort cartographer to the Underdark near Barton
 - [x] [[Mystra]]
-	- [x] Find [[Rhycharde Lannis|Rhycharde]]
-	- [x] Meet the Priests of Mystra
-	- [x] Investigate [[Maebael Saevine]]
-		- [x] Convict Maebael (we killed her lol)
+  - [x] Find [[Rhycharde Lannis|Rhycharde]]
+  - [x] Meet the Priests of Mystra
+  - [x] Investigate [[Maebael Saevine]]
+    - [x] Convict Maebael (we killed her lol)
 - [ ] Meteor
-	- [ ] Head of Tudia Isles and investigate the cave
-	- [x] Climb Rath Mountain (Avery’s Quest)
+  - [ ] Head of Tudia Isles and investigate the cave
+  - [ ] Climb Rath Mountain (Avery’s Quest)
 - [ ] Arkansas’ Quest
-	- [ ] Turn the Fountain into a shrine
-		- [x] Find a temple/priest to bless the ‘Tymora’ sign
+  - [ ] Turn the Fountain into a shrine
+    - [ ] Find a temple/priest to bless the ‘Tymora’ sign
 - [ ] Variel’s Quest
-	- [x] Break Inlahala out of prison
-	- [ ] Find Vae in Baator
+  - [x] Break Inlahala out of prison
+  - [ ] Find Vae in Baator
 - [ ] Avery’s Quest
-	- [x] Tallest mountain in Rath (Mt. Silver)
-		- [ ] Return there once she's worthy
-	- [x] Fountain of arcane energy
-	- [ ] Long
-		- [ ] Investigate the Negative Weave conflux in Emaba
+  - [ ] Tallest mountain in Rath
+  - [x] Fountain of arcane energy
+  - [ ] Long
+    - [ ] Investigate the Negative Weave conflux in Emaba
 - [ ] Twig’s Quest
-	- [ ] Poral
+  - [ ] Poral

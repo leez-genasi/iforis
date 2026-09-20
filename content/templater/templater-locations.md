@@ -7,4 +7,5 @@ publish: true
 aliases:
   - 
 ---
+
 # Places

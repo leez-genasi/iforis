@@ -11,6 +11,7 @@ race:
 class: Paladin?
 publish: true
 ---
+
 ## Interactions
 
 ## Appearance

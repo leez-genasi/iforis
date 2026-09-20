@@ -1,17 +1,13 @@
 ---
-tags:
-  - NPCs
+publish: true
 aliases:
   - Lucian
-affiliation: Ersragrun
-titles: Lord of the Sanguine Domain
-status: Undead
-kingdom:
-  - "[[c_locations/rath empire/index|Rath Empire]]"
-race: Vampire
-class:
-publish: true
+created: 2026-03-26T19:57:37.215Z
+modified: 2026-09-15T12:40:47.169Z
+tags:
+  - NPCs
 ---
+
 ## Interactions:
 
 ##### [[010_10022025]]:
@@ -20,6 +16,7 @@ publish: true
 - Went off to help Ersagrun with the Ischianella conquest
 
 ##### [[060_08092026]]:
+
 - We find out that he May have betrayed Ersra
 
 ## Appearance
@@ -27,6 +24,7 @@ publish: true
 ## Goals
 
 [[010_10022025]]:
+
 - Is helping the conquest in Ischianella
 
 ## Notes

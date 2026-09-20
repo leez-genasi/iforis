@@ -12,8 +12,8 @@ race:
 class: Wizard
 publish: true
 ---
-## Interactions:
 
+## Interactions:
 
 ## Appearance
 
@@ -45,6 +45,7 @@ publish: true
   - We could def beat her up
 
 #### Timetable
+
 - Lives near the Port of Zirguisse, has a big window so she can just fly in and out of the room
   Monday:
 - Goes to work, get a breakfast from a café along the way, ride her broom to the office and stays there for 12-14 hours.
@@ -63,4 +64,5 @@ publish: true
   ^ Always seem to come home about the same time 10-11pm
 
 #### Spells:
+
 - can summon a Rakshasa??

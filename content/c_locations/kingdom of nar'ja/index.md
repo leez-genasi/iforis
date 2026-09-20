@@ -6,16 +6,16 @@ title: Kingdom of Nar'ja
 aliases:
   - Nar'ja
 ---
+
 # Notable People:
-```dataview
-TABLE
-titles AS "Title"
-FROM #NPCs
-WHERE contains(kingdom, [[c_locations/kingdom of nar'ja/index]])
-```
+
+| File                                                    | Title                        |
+| ------------------------------------------------------- | ---------------------------- |
+| [[b_people/NPCs/Rhycharde Lannis.md\|Rhycharde Lannis]] | High Wizard of Naz'ja        |
+| [[b_people/NPCs/Maebael Saevine.md\|Maebael Saevine]]   | Secretary to the High Wizard |
+
 # Cities
-```dataview
-TABLE
-FROM "c_locations/kingdom of nar'ja"
-WHERE file.name != "index"
-```
+
+| File                                                      |
+| --------------------------------------------------------- |
+| [[c_locations/kingdom of nar'ja/Zirguisse.md\|Zirguisse]] |

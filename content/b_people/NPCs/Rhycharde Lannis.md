@@ -12,6 +12,7 @@ race: Half-Elf
 class: Wizard
 publish: true
 ---
+
 ## Interactions
 
 ## Appearance

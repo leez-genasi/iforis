@@ -12,7 +12,9 @@ publish: true
 ---
 
 ## Interactions:
+
 ##### [[008_24012025]]:
+
 - Saved us from Reno
 
 ## Appearance

@@ -1,7 +1,9 @@
 ---
+publish: true
+created: 2026-03-26T19:57:37.196Z
+modified: 2026-09-08T13:46:33.656Z
 tags:
   - Deities
-publish: true
 ---
 
 ### Pact with [[Arkansas]]

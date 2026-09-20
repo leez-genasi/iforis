@@ -1,11 +1,11 @@
 ---
+publish: true
+created: 2026-03-26T19:57:37.183Z
+modified: 2026-09-01T13:40:27.149Z
 tags:
   - party
-publish: true
-aliases:
-race: human
-class: great old one warlock
 ---
+
 ### Possessions
 
 - Idol of Tymora

@@ -1,26 +1,25 @@
 ---
-tags:
-  - NPCs
+publish: true
 aliases:
   - Ersra
-affiliation: Ersragrun
-titles: Eye of Stran
-status: Revived
-kingdom: Stanland Deadlands
-race: Lich
-class:
-publish: true
+created: 2026-03-26T19:57:37.207Z
+modified: 2026-09-08T14:52:28.968Z
+tags:
+  - NPCs
 ---
+
 ## Interactions:
 
 [010\_10022025](../../../../iforis/sessions/010_10022025):
+
 - Official Introduction
 
 [[031_12082025]]:
+
 - In Brovilne, Ersragrun crashes the Temple of Gorn and takes the Gorn amulet for herself
 - She kills Rekaz after he challenges her
 - Updates us on the conquest
-[[049_22042026]]:
+  [[049_22042026]]:
 - we return to her castle and turn in the amulets for rewards
 - she gives us a new quest to do whatever we must to ensure that the war between the Lurian and Rath Empires continue
 
@@ -32,6 +31,7 @@ publish: true
   - Collect all the deity’s amulets
 
 ### Members of her Council:
+
 - [[Lucian Amberose Grimwood]]
 - [[Althecar Nazerie]]
 - [[Ackur Reno Farhenon]]
@@ -39,20 +39,23 @@ publish: true
 - [[Irahace Flintstep]]
 
 ## Notes:
+
 - Likes a roasted tomato above a fire pit
 - Has lost her sense of taste after being alive for so long
 - First conquest started with rallying a crowd
 
 ## Backstory:
+
 - Also known as: the Eye of Stan
   - was alive a millennium ago, but was defeated by a paladin and his party using the deity’s amulets
   - Conquered almost all of the world
   - Was resurrected due to her 5 generals (no details)
-	  - Was brought back to life about 5 years ago by some adventurer who went spelunking
-		  - his life was taken by Ersra for long enough that she could take more life around the area
-		  - the crypt is very deep underground (even deeper than the Underdark)
-	  - And was found by Irahace
+    - Was brought back to life about 5 years ago by some adventurer who went spelunking
+      - his life was taken by Ersra for long enough that she could take more life around the area
+      - the crypt is very deep underground (even deeper than the Underdark)
+    - And was found by Irahace
 
 Previous Campaign:
+
 - lost because she did not bother about the deities
-- now she's taking away every blessing from the gods and goddesses 
+- now she's taking away every blessing from the gods and goddesses

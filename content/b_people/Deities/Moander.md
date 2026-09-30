@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-26T19:57:37.196Z
-modified: 2026-09-08T13:46:33.656Z
+modified: 2026-09-29T12:52:16.016Z
 tags:
   - Deities
 ---
@@ -59,3 +59,33 @@ Terms of the Pact:
   - Selune helped split Tyche into Tymora (Lady of Luck) and Bishava (Goddess of bad luck, misfortune, and malice)
 - Tymora didn’t inherit Moander’s corruption, but wanted to put all these behind
 - Moander created a contract where Tymora (who had more followers) would willingly allow a handful of followers every century to form a pact with Moander.
+
+[[061_15092026]]:
+Head over to Vaera:
+
+- There was Tyche, and there came Tymora and Beshaba. I am a follower of Tymora, and a servant of Moander (I carry her powers). Now I am here, before a follower of Beshaba, does the pieces start to fit together in your mind?
+  - I bring up the theory of the cyclic Moander/Beshaba
+  - Basically, if Tyche can't defeat Moander herself, what can one half of her do?
+  - What is taight is that Beshaba and Tymora's followers are supposed to hate each other.
+    - Takes out a coin, and puts it on the table. One side is Tymora, the other side is Beshaba.
+    - There must be two faces of one coin > the two faces form one whole that represent Tyche
+    - The only reason why I am lost right now is because there's this gap between Tymora and Beshaba.
+    - ^ Here to find out about the link
+
+Tymora, Moander, and Beshaba:
+
+- they are at a balance. there are boundaries between the gods that even they themselves will not cross. If Tymora is one half of Tyche, and she is only half as powerful as Tyche, why doesn't Moander just overpower Tymora.
+  - Because the fight does not need to happen. Peace.
+  - The coin represents where Beshaba (the person chosen by Moander) stand in all of these. There's something the 3 have in common but must be bridge. The chosen will be the one to be the link between the three.
+  - You have not been forsaken by any of the gods > have just been sheltered by one deity (it's Moander)
+    - This is not a curse, it's not a misfortune, this is an extraordinary event (it could be luck, chance, etc)
+    - Not being asked to choose between the 3 of the gods
+      - am missing the link between the two of those deities and Beshaba
+
+Trial of the Broken Coin:
+
+- have been accepted by Beshaba
+- Peace is easy among two parties, but between 3???
+- Anyone can claim they understand each other, but a bridge is worthless if someone walks over it
+  - There is a trial to undergo within Beshaba's church so I can be accepted within the eyes of Beshaba (Patience, arrogance, ability to communicate)
+  - Prophecies say that if there is someone who is accepted by all 3, the one true deity will appear before them

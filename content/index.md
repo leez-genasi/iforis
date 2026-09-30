@@ -1,8 +1,10 @@
 ---
 publish: true
+title: Iforis
+created: 2026-03-26T19:57:37.225Z
+modified: 2026-09-20T15:48:19.384Z
 tags:
   - world
-title: Iforis
 ---
 
 _Welcome to the world of Iforis._
@@ -24,14 +26,15 @@ _Welcome to the world of Iforis._
 
 | File                                         | Chapter | Summary                                                                                   | Location                                                                             |
 | -------------------------------------------- | ------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[a_sessions/055_.md\|055_]]                 | 3       | -                                                                                        | -                                                                                   |
-| [[a_sessions/054_.md\|054_]]                 | 3       | -                                                                                        | -                                                                                   |
-| [[a_sessions/061_15092026.md\|061_15092026]] | 3       | -                                                                                        | <ul><li>Wigdon, Holy Kingdom of Ibroura</li></ul>                                    |
-| [[a_sessions/056_.md\|056_]]                 | 3       | -                                                                                        | -                                                                                   |
+| [[a_sessions/062_29092026.md\|062_29092026]] | 3       | -                                                                                        | <ul><li>Chich, Holy Kingdom of Ibroura</li></ul>                                     |
+| [[a_sessions/061_15092026.md\|061_15092026]] | 3       | -                                                                                        | <ul><li>Chich, Holy Kingdom of Ibroura</li></ul>                                     |
 | [[a_sessions/060_08092026.md\|060_08092026]] | 3       | -                                                                                        | <ul><li>Wigdon, Holy Kingdom of Ibroura</li></ul>                                    |
 | [[a_sessions/059_01092026.md\|059_01092026]] | 3       | -                                                                                        | -                                                                                   |
 | [[a_sessions/058_18082026.md\|058_18082026]] | 3       | -                                                                                        | -                                                                                   |
 | [[a_sessions/057_05082026.md\|057_05082026]] | 3       | -                                                                                        | -                                                                                   |
+| [[a_sessions/056_.md\|056_]]                 | 3       | -                                                                                        | -                                                                                   |
+| [[a_sessions/055_.md\|055_]]                 | 3       | -                                                                                        | -                                                                                   |
+| [[a_sessions/054_.md\|054_]]                 | 3       | -                                                                                        | -                                                                                   |
 | [[a_sessions/053_18062026.md\|053_18062026]] | 3       | Twig's family visit                                                                       | <ul><li>Sileanaro, Poral</li></ul>                                                   |
 | [[a_sessions/052_17062026.md\|052_17062026]] | 3       | -                                                                                        | <ul><li>Sileanaro, Poral</li></ul>                                                   |
 | [[a_sessions/051_17062026.md\|051_17062026]] | 3       | -                                                                                        | -                                                                                   |
@@ -73,30 +76,30 @@ _Welcome to the world of Iforis._
 | [[a_sessions/015_29032025.md\|015_29032025]] | 1       | -                                                                                        | -                                                                                   |
 | [[a_sessions/014_26022026.md\|014_26022026]] | 1       | -                                                                                        | -                                                                                   |
 | [[a_sessions/013_12032025.md\|013_12032025]] | 1       | -                                                                                        | -                                                                                   |
+| [[a_sessions/012_05032025.md\|012_05032025]] | 1       | -                                                                                        | Yrerex, Birdenia                                                                     |
 | [[a_sessions/011_19022025.md\|011_19022025]] | 1       | -                                                                                        | -                                                                                   |
 | [[a_sessions/010_10022025.md\|010_10022025]] | 1       | -                                                                                        | Ischianella, Keolon                                                                  |
 | [[a_sessions/009_07022025.md\|009_07022025]] | 0       | -                                                                                        | Ischianella, Keolon                                                                  |
-| [[a_sessions/012_05032025.md\|012_05032025]] | 1       | -                                                                                        | Yrerex, Birdenia                                                                     |
 | [[a_sessions/008_24012025.md\|008_24012025]] | 0       | Our party joins forces with another and encounter some dangerous beings. And raid a tomb. | Fiulialatro, Keolon                                                                  |
-| [[a_sessions/006_20112024.md\|006_20112024]] | 0       | For Bastellicano.                                                                         | Bastellicano, Keolon                                                                 |
 | [[a_sessions/007_15012025.md\|007_15012025]] | 0       | We head forth to Rigra to deliver a package and come across some new friends.             | Rigra, Keolon                                                                        |
-| [[a_sessions/004_30102024.md\|004_30102024]] | 0       | The day of the smithing competition arrives.                                              | Norterano, Keolon                                                                    |
+| [[a_sessions/006_20112024.md\|006_20112024]] | 0       | For Bastellicano.                                                                         | Bastellicano, Keolon                                                                 |
 | [[a_sessions/005_06112024.md\|005_06112024]] | 0       | We arrive in Bastellicano in preperation.                                                 | Bastellicano, Keolon                                                                 |
+| [[a_sessions/004_30102024.md\|004_30102024]] | 0       | The day of the smithing competition arrives.                                              | Norterano, Keolon                                                                    |
 | [[a_sessions/003_23102024.md\|003_23102024]] | 0       | -                                                                                        | Norterano, Keolon                                                                    |
-| [[a_sessions/001_09102024.md\|001_09102024]] | 0       | Our adventure begins.                                                                     | Tofla, Keolon                                                                        |
 | [[a_sessions/002_16102024.md\|002_16102024]] | 0       | -                                                                                        | Norterano, Keolon                                                                    |
+| [[a_sessions/001_09102024.md\|001_09102024]] | 0       | Our adventure begins.                                                                     | Tofla, Keolon                                                                        |
 
 # Notable NPCs:
 
 | File                                                                                              | Affiliation                                                                      | Title |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----- |
-| [[b_people/NPCs/Lucian Amberose Grimwood.md\|Lucian Amberose Grimwood]]                           | Ersragrun                                                                        | -    |
-| [[b_people/NPCs/Nemaline Lorsch.md\|Nemaline Lorsch]]                                             | -                                                                               | -    |
 | [[b_people/NPCs/Rhycharde Lannis.md\|Rhycharde Lannis]]                                           | <ul><li>[[c_locations/kingdom of nar'ja/index.md\|Kingdom of Nar'ja]]</li></ul> | -    |
+| [[b_people/NPCs/Nemaline Lorsch.md\|Nemaline Lorsch]]                                             | -                                                                               | -    |
+| [[b_people/NPCs/Lucian Amberose Grimwood.md\|Lucian Amberose Grimwood]]                           | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Maebael Saevine.md\|Maebael Saevine]]                                             | -                                                                               | -    |
 | [[b_people/NPCs/Irahace Flintstep.md\|Irahace Flintstep]]                                         | Ersragrun                                                                        | -    |
+| [[b_people/NPCs/Ersragrun.md\|Ersragrun]]                                                         | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Bellastine Shialetree.md\|Bellastine Shialetree]]                                 | -                                                                               | -    |
 | [[b_people/NPCs/Leviticus Olsen ven Nethelmor Glavorn.md\|Leviticus Olsen ven Nethelmor Glavorn]] | Adventurer's Guild                                                               | -    |
-| [[b_people/NPCs/Ersragrun.md\|Ersragrun]]                                                         | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Althecar Nazerie.md\|Althecar Nazerie]]                                           | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Ackur Reno Farhenon.md\|Ackur Reno Farhenon]]                                     | Ersragrun                                                                        | -    |

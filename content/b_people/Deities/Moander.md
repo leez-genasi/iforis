@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-26T19:57:37.196Z
-modified: 2026-09-29T12:52:16.016Z
+modified: 2026-10-13T15:25:22.690Z
 tags:
   - Deities
 ---
@@ -56,7 +56,7 @@ Terms of the Pact:
 - Existed with grudges, and had some disparities on how worshippers should conduct themselves
 - When Tyche and Moander clashed, it was very desturctive
   - Tyche got corrupted by Moander
-  - Selune helped split Tyche into Tymora (Lady of Luck) and Bishava (Goddess of bad luck, misfortune, and malice)
+  - Selune helped split Tyche into Tymora (Lady of Luck) and Beshaba (Goddess of bad luck, misfortune, and malice)
 - Tymora didn’t inherit Moander’s corruption, but wanted to put all these behind
 - Moander created a contract where Tymora (who had more followers) would willingly allow a handful of followers every century to form a pact with Moander.
 

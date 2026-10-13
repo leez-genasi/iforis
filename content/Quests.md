@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-26T19:57:37.228Z
-modified: 2026-09-29T13:56:38.127Z
+modified: 2026-10-06T13:49:59.813Z
 tags:
   - world
 ---
@@ -35,13 +35,13 @@ tags:
 - [ ] Meteor
   - [ ] Head of Tudia Isles and investigate the cave
   - [ ] Climb Rath Mountain (Avery’s Quest)
-- [ ] Arkansas’ Quest
+- [x] Arkansas’ Quest
   - [ ] Turn the Fountain into a shrine
     - [x] Find a temple/priest to bless the ‘Tymora’ sign
   - [x] Head to Chich to speak to the Head Priest of Beshaba
     - [x] Find out more about the past chosen of Moander
     - [x] Find out what Moander wants with the pact (Break the Cycle)
-    - [ ] Trial at the Temple of Beshaba
+    - [x] Trial at the Temple of Beshaba
 - [ ] Variel’s Quest
   - [x] Break Inlahala out of prison
   - [ ] Find Vae in Baator

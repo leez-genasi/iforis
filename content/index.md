@@ -26,6 +26,8 @@ _Welcome to the world of Iforis._
 
 | File                                         | Chapter | Summary                                                                                   | Location                                                                             |
 | -------------------------------------------- | ------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [[a_sessions/064_13102026.md\|064_13102026]] | 3       | Baator                                                                                    | -                                                                                   |
+| [[a_sessions/063_06102026.md\|063_06102026]] | 3       | -                                                                                        | <ul><li>Stran Castle, Stanland Deadlands</li></ul>                                   |
 | [[a_sessions/062_29092026.md\|062_29092026]] | 3       | -                                                                                        | <ul><li>Chich, Holy Kingdom of Ibroura</li></ul>                                     |
 | [[a_sessions/061_15092026.md\|061_15092026]] | 3       | -                                                                                        | <ul><li>Chich, Holy Kingdom of Ibroura</li></ul>                                     |
 | [[a_sessions/060_08092026.md\|060_08092026]] | 3       | -                                                                                        | <ul><li>Wigdon, Holy Kingdom of Ibroura</li></ul>                                    |
@@ -95,11 +97,11 @@ _Welcome to the world of Iforis._
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ----- |
 | [[b_people/NPCs/Rhycharde Lannis.md\|Rhycharde Lannis]]                                           | <ul><li>[[c_locations/kingdom of nar'ja/index.md\|Kingdom of Nar'ja]]</li></ul> | -    |
 | [[b_people/NPCs/Nemaline Lorsch.md\|Nemaline Lorsch]]                                             | -                                                                               | -    |
-| [[b_people/NPCs/Lucian Amberose Grimwood.md\|Lucian Amberose Grimwood]]                           | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Maebael Saevine.md\|Maebael Saevine]]                                             | -                                                                               | -    |
+| [[b_people/NPCs/Lucian Amberose Grimwood.md\|Lucian Amberose Grimwood]]                           | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Irahace Flintstep.md\|Irahace Flintstep]]                                         | Ersragrun                                                                        | -    |
+| [[b_people/NPCs/Leviticus Olsen ven Nethelmor Glavorn.md\|Leviticus Olsen ven Nethelmor Glavorn]] | Adventurer's Guild                                                               | -    |
 | [[b_people/NPCs/Ersragrun.md\|Ersragrun]]                                                         | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Bellastine Shialetree.md\|Bellastine Shialetree]]                                 | -                                                                               | -    |
-| [[b_people/NPCs/Leviticus Olsen ven Nethelmor Glavorn.md\|Leviticus Olsen ven Nethelmor Glavorn]] | Adventurer's Guild                                                               | -    |
 | [[b_people/NPCs/Althecar Nazerie.md\|Althecar Nazerie]]                                           | Ersragrun                                                                        | -    |
 | [[b_people/NPCs/Ackur Reno Farhenon.md\|Ackur Reno Farhenon]]                                     | Ersragrun                                                                        | -    |
